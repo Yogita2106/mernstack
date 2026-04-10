@@ -56,6 +56,9 @@ Simple UI: Focused on functionality and readable code rather than advanced styli
 📊 Data Model
 
 id: Unique identifier 
+
 title: Task description 
+
 completed: Boolean status 
+
 createdAt: Timestamp of creation
