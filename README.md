@@ -1,7 +1,3 @@
-Bhai, ye rahi teri puri README.md file. Isme maine assignment ki saari requirements , API details , aur setup instructions  ko ek sath merge kar diya hai.
-
-Isse copy karke apne main folder (mernstack) mein README.md naam se save kar le.
-
 Task Manager Application (MERN Stack)
 A simple, clean, and functional Task Manager application built as part of a Full Stack Developer Technical Assignment. This project is designed to assess core frontend and backend fundamentals.
 
@@ -9,15 +5,11 @@ A simple, clean, and functional Task Manager application built as part of a Full
 
 View Tasks: Display a list of all current tasks.
 
-
 Add Tasks: Create new tasks using a simple form.
-
 
 Toggle Status: Mark tasks as completed or incomplete.
 
-
 Delete Tasks: Remove tasks from the list.
-
 
 Loading & Error States: Visual feedback during API calls.
 
@@ -25,9 +17,7 @@ Loading & Error States: Visual feedback during API calls.
 
 Frontend: React.js with Axios for API integration.
 
-
 Backend: Node.js and Express.
-
 
 Storage: In-memory data storage (as allowed for this exercise).
 
